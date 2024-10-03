@@ -101,3 +101,11 @@ ENV/
 .mypy_cache/
 
 .github/**
+
+.idea
+
+flower_data
+
+save
+
+assets
